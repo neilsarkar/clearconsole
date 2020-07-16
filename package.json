@@ -1,6 +1,6 @@
 {
   "name": "com.neilsarkar.clearconsole",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "Clear Console",
   "description": "Clear Unity Console with cmd+alt+v or ctrl+alt+v",
   "unity": "2019.4",
